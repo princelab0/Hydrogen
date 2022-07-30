@@ -1,11 +1,10 @@
 # Hydrogen
-Complier based on AI.
+AI based compiler.
 
 # TODO::
 
-[] Make trans-complier
-[] Make complier 
-[] Integrate AI optimizer 
-[] Train AI for memory optimization
-
+## [] Make trans-complier
+## [] Make complier 
+## [] Integrate AI optimizer 
+## [] Train AI for memory optimization
 
